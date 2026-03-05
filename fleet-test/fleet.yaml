@@ -1,0 +1,3 @@
+# Fleet bundle config for NGINX test
+# See: kubernetes/fleet-test/README.md
+namespace: fleet-test
